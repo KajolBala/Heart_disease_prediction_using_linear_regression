@@ -1,0 +1,2 @@
+# Heart_disease_prediction_using_linear_regression
+Simple Project heart disease prediction using linear regression
